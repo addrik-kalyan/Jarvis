@@ -97,13 +97,6 @@ Jarvis/
  ├── jarvis.py
  ├── requirements.txt
  └── README.md
-```
-
----
-
-## 👨‍💻 Author
-
-Created by **addrik-kalyan**
 
 ---
 
